@@ -1,5 +1,5 @@
 export default function CodinGame(BEGIN,END){// const prompt = require("prompt-sync")();
-// const begin = prompt("Enter the start date : ")
+// const begin = prompt("Enter the start date : ") 
 // const end = prompt("Enter the end date : ")
 
 //to better process the input, it must be converted into an array
