@@ -6,8 +6,8 @@ Succeed in calculating the interval between two given dates (if there is otherwi
 
 # example : 
 Input:
-01.01.2000 , 
-01.01.2016
+"01.01.2000" , 
+"01.01.2016"
 
 Output:  
 16 years, total 5844 days
